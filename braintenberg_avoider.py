@@ -1,8 +1,4 @@
-# UE IA & JEUX - L3, SU
-# TP "comportement réactif"
-#
-# Nicolas Bredeche
-# 2021-03-31
+
 
 from pyroborobo import Pyroborobo, Controller, AgentObserver, WorldObserver, CircleObject, SquareObject, MovableObject
 # from custom.controllers import SimpleController, HungryController
