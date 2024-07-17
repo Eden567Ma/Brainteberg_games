@@ -1,6 +1,5 @@
-# Nicolas
-# 2021-03-31
-#
+
+
 # comportement par défaut
 
 def get_team_name():
