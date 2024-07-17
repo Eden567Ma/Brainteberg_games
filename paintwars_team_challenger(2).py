@@ -1,8 +1,3 @@
-# Projet "robotique" IA&Jeux 2021
-#
-# Binome:
-#  Prénom Nom: OUAKED Massilva
-#  Prénom Nom: EUGSTER Wilfried
 
 import random
 
